@@ -1,6 +1,7 @@
 .container{
-    height: 300px;
-    width: 100px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
     align-content: center;
 }
 
@@ -11,7 +12,6 @@ h1{
 }
 
 #display{
-    width: 100px;
     font-size: 72px;
     text-align: center;
     margin: auto;
